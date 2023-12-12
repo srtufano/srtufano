@@ -12,7 +12,7 @@
 ![Sérgio GitHub stats](https://github-readme-stats.vercel.app/api?username=srtufano&show_icons=true&theme=gruvbox)
 
 
-## Tecnologias que estudo no meu  dia a 
+## Tecnologias que estudo no meu  dia a dia
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srtufano&hide_progress=true)
 
